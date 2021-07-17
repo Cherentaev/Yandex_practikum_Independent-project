@@ -1,4 +1,4 @@
-# Yandex_practikum_Independent_project
+# Yandex_practikum_Independent_project_Data_analysis_course
 #### Theme: Music of Big Cities 
 The question I'm working with is: How is the music played on the way to work on Monday morning different from the music played on Wednesday or at the end of the work week? I have data from the Yandex.Music service for Moscow and St. Petersburg and I am researching what exactly and in what mode their residents listen.   
 
